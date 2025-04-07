@@ -60,8 +60,4 @@ To contribute to business success by applying data analysis techniques—particu
 
 This project showcases how data can be transformed into actionable insights using visualization tools and forecasting techniques. It offers a strong example of how **Power BI** can empower business users to explore their data with clarity and make informed strategic decisions.
 
----
 
-## 📬 Let's Connect
-
-If you're interested in discussing this project, feel free to connect with me on [LinkedIn](#) or reach out via [email](mailto:your.email@example.com).
